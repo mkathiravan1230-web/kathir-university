@@ -1,0 +1,1 @@
+function sendForm(e){e.preventDefault();document.getElementById("msg").textContent="Thank you! Your message has been received.";e.target.reset();}
